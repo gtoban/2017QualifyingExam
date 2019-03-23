@@ -1,0 +1,14 @@
+\contentsline {chapter}{\textnormal {LIST OF TABLES}}{v}
+\contentsline {chapter}{\textnormal {LIST OF FIGURES}}{vi}
+\contentsline {chapter}{\textnormal {CHAPTER}\nobreakspace {}\numberline {I.}\textbf {INTRODUCTION}}{1}
+\contentsline {chapter}{\textnormal {CHAPTER}\nobreakspace {}\numberline {II.}\textbf {BACKGROUND}}{3}
+\contentsline {section}{\numberline {\textnormal }\textbf {The Single Channel EEG}}{3}
+\contentsline {section}{\numberline {\textnormal }\textbf {Signal Processing and Wavelet Decomposition}}{12}
+\contentsline {section}{\numberline {\textnormal }\textbf {Categorization and Artificial Neural Networks}}{16}
+\contentsline {chapter}{\textnormal {CHAPTER}\nobreakspace {}\numberline {III.}\textbf {METHODS AND RESULTS}}{24}
+\contentsline {section}{\numberline {\textnormal }\textbf {Methods}}{24}
+\contentsline {section}{\numberline {\textnormal }\textbf {Results}}{26}
+\contentsline {chapter}{\textnormal {CHAPTER}\nobreakspace {}\numberline {IV.}\textbf {CONCLUSIONS AND FUTURE}}{30}
+\contentsline {section}{\numberline {\textnormal }\textbf {Conclusions}}{30}
+\contentsline {section}{\numberline {\textnormal }\textbf {Future Work}}{30}
+\contentsline {chapter}{BIBLIOGRAPHY}{32}

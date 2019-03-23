@@ -1,0 +1,16 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1}{\ignorespaces A representation of the electrode positions identified by the 10/20 system. It originated from https://sleeptechstudy.wordpress.com/category/1020-system/ \cite {noauthor_10/20_nodate}. Each position is labeled by 1 to 3 letters and/or a number which are listed on the left side of this image.\relax }}{5}
+\contentsline {figure}{\numberline {2}{\ignorespaces The V wave and K-complex used in the sleep stage scoring manual from the AASM \cite {berry_md_chair_aasm_nodate}.\relax }}{13}
+\contentsline {figure}{\numberline {3}{\ignorespaces A plot of the Morlet wavlet and the Daubechies order 2 wavelet produced by Matlab.\relax }}{15}
+\contentsline {figure}{\numberline {4}{\ignorespaces The plot of line that was produced via linear regression on a set of coordinates.\relax }}{17}
+\contentsline {figure}{\numberline {5}{\ignorespaces Gradient Descent image from https://sebastianraschka.com/faq/docs/closed-form-vs-gd.html \cite {noauthor_machine_nodate}.\relax }}{19}
+\contentsline {figure}{\numberline {6}{\ignorespaces Function in node picture.\relax }}{19}
+\contentsline {figure}{\numberline {7}{\ignorespaces Function with multiple inputs in node picture.\relax }}{20}
+\contentsline {figure}{\numberline {8}{\ignorespaces Plot of the sigmoid function.\relax }}{20}
+\contentsline {figure}{\numberline {9}{\ignorespaces Function with multiple inputs in sigmoid node picture.\relax }}{21}
+\contentsline {figure}{\numberline {10}{\ignorespaces Function with multiple inputs and multiple outputs in a sigmoid node picture.\relax }}{22}
+\contentsline {figure}{\numberline {11}{\ignorespaces Function with multiple inputs and layers and a single in a sigmoid node picture.\relax }}{22}
+\contentsline {figure}{\numberline {12}{\ignorespaces Function with multiple inputs, layers, and outputs in a ANN node picture.\relax }}{23}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

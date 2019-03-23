@@ -1,0 +1,165 @@
+\begin{thebibliography}{10}
+
+\bibitem{noauthor_10/20_nodate}
+10/20 system {\textbar} {Polysomnography} {Study} {Guide}.
+
+\bibitem{noauthor_10/20_nodate-1}
+{\em 10/20 {System} {Positioning} {Manual}}.
+\newblock Trans Cranial Technologies.
+
+\bibitem{noauthor_european_nodate}
+European {Data} {Format} ({EDF}).
+
+\bibitem{noauthor_machine_nodate}
+Machine {Learning} {FAQ}.
+
+\bibitem{noauthor_sleep-edf_nodate}
+The {Sleep}-{EDF} {Database} [{Expanded}].
+
+\bibitem{noauthor_time-frequency_nodate}
+Time-frequency {Signal} {Analysis} with {Applications}.
+
+\bibitem{noauthor_spectral_2017}
+Spectral density, July 2017.
+\newblock Page Version ID: 793299266.
+
+\bibitem{achermann_eeg_2009}
+Achermann, P.
+\newblock {EEG} analysis applied to sleep.
+\newblock {\em Epileptologie}, 26:28--33, 2009.
+
+\bibitem{b_alternative_1990}
+B, v.~S., B, K., Ha, K., and Ea, V. d.~V.
+\newblock Alternative electrode placement in (automatic) sleep scoring
+  ({Fpz}-{Cz}/{Pz}-{Oz} versus {C}4-{A}1).
+\newblock {\em Sleep}, 13(3):279--283, June 1990.
+
+\bibitem{baratloo_part_2015}
+Baratloo, A., Hosseini, M., Negida, A., and El~Ashal, G.
+\newblock Part 1: {Simple} {Definition} and {Calculation} of {Accuracy},
+  {Sensitivity} and {Specificity}.
+\newblock {\em Emergency}, 3(2):48--49, 2015.
+
+\bibitem{berry_md_chair_aasm_nodate}
+Berry, MD~(Chair), R.~B., Brooks, MEd, R. R.~R., Gamaldo, MD, C.~E., Harding,
+  MD, S.~M., Lloyd, MD, R.~M., Quan, MD, S.~F., Troester, DO, M.~M., and
+  Vaughn, MD, B.~V.
+\newblock {\em {AASM} {Manual} for the {Scoring} of {Sleep} and {Associated}
+  {Events}: {Rules}, {Terminology} and {Technical} {Specifications}}, volume
+  2.4.
+\newblock American Academy of Sleep Medicine.
+
+\bibitem{byrne_signal_2014}
+Byrne, C.~L.
+\newblock {\em Signal {Processing}, 2nd {Edition}}.
+\newblock CRC Press, 2 edition, November 2014.
+
+\bibitem{crasto_wavelet_2017}
+Crasto, N. and Upadhyay, R.
+\newblock Wavelet {Decomposition} {Based} {Automatic} {Sleep} {Stage}
+  {Classification} {Using} {EEG}.
+\newblock In {\em Bioinformatics and {Biomedical} {Engineering}}, pages
+  508--516. Springer, Cham, April 2017.
+
+\bibitem{debnath_wavelet_2014}
+Debnath, L. and Shah, F.
+\newblock {\em Wavelet {Transforms} and {Their} {Applications}}.
+\newblock Springer, November 2014.
+\newblock Google-Books-ID: qPuWBQAAQBAJ.
+
+\bibitem{dietsch_fourier-analyse_1932}
+Dietsch, G.
+\newblock Fourier-{Analyse} von {Elektrencephalogrammen} des {Menschen}.
+\newblock {\em Pflüger's Archiv für die gesamte Physiologie des Menschen und
+  der Tiere}, 230(1):106--112, December 1932.
+
+\bibitem{ebrahimi_automatic_2008}
+Ebrahimi, F., Mikaeili, M., Estrada, E., and Nazeran, H.
+\newblock Automatic sleep stage classification based on {EEG} signals by using
+  neural networks and wavelet packet coefficients.
+\newblock In {\em 2008 30th {Annual} {International} {Conference} of the {IEEE}
+  {Engineering} in {Medicine} and {Biology} {Society}}, pages 1151--1154,
+  August 2008.
+
+\bibitem{fraiwan_automated_2012}
+Fraiwan, L., Lweesy, K., Khasawneh, N., Wenz, H., and Dickhaus, H.
+\newblock Automated sleep stage identification system based on time–frequency
+  analysis of a single {EEG} channel and random forest classifier.
+\newblock {\em Computer Methods and Programs in Biomedicine}, 108(1):10--19,
+  October 2012.
+
+\bibitem{heaton_artificial_2015}
+Heaton, J.
+\newblock {\em Artificial {Intelligence} for {Humans} {Volume} 3: {Deep}
+  {Learning} and {Neural} {Networks}}.
+\newblock December 2015.
+
+\bibitem{hlawatsch_linear_1992}
+Hlawatsch, F. and Boudreaux-Bartels, G.~F.
+\newblock Linear and quadratic time-frequency signal representations.
+\newblock {\em IEEE Signal Processing Magazine}, 9(2):21--67, April 1992.
+
+\bibitem{kurt_ann-based_2009}
+Kurt, M.~B., Sezgin, N., Akin, M., Kirbas, G., and Bayram, M.
+\newblock The {ANN}-based computing of drowsy level.
+\newblock {\em Expert Systems with Applications}, 36(2):2534--2542, March 2009.
+
+\bibitem{lazyprogrammer.me_data_nodate}
+{LazyProgrammer.me},.
+\newblock Data {Science}: {Deep} {Learning} in {Python}.
+
+\bibitem{lazyprogrammer.me_data_nodate-1}
+{LazyProgrammer.me},.
+\newblock Data {Science}: {Linear} {Regression} in {Python}.
+
+\bibitem{lazyprogrammer.me_data_nodate-2}
+{LazyProgrammer.me},.
+\newblock Data {Science}: {Logistic} {Regression} in {Python}.
+
+\bibitem{lotte_review_2007}
+Lotte, F., Congedo, M., Lécuyer, A., Lamarche, F., and Arnaldi, B.
+\newblock A review of classification algorithms for {EEG}-based
+  brain–computer interfaces.
+\newblock {\em Journal of Neural Engineering}, 4(2):R1, 2007.
+
+\bibitem{rao_detecting_2014}
+Rao, T. and Vishwanath, D.~D.
+\newblock Detecting sleep disorders based on {EEG} signals by using discrete
+  wavelet transform.
+\newblock In {\em Green {Computing} {Communication} and {Electrical}
+  {Engineering} ({ICGCCEE}), 2014 {International} {Conference} on}, pages 1--5.
+  IEEE, 2014.
+
+\bibitem{rechtschaffen_manual_nodate}
+Rechtschaffen, A. and Kales, A.
+\newblock {\em A manual of {Standardized} {Terminology}, {Techniques} and
+  {Scoring} {System} for {Sleep} {Stages} of {Human} {Subjects}}.
+
+\bibitem{shambroom_validation_2012}
+Shambroom, J.~R., Fábregas, S.~E., and Johnstone, J.
+\newblock Validation of an automated wireless system to monitor sleep in
+  healthy adults.
+\newblock {\em Journal of Sleep Research}, 21(2):221--230, April 2012.
+
+\bibitem{sinha_artificial_2008}
+Sinha, R.~K.
+\newblock Artificial {Neural} {Network} and {Wavelet} {Based} {Automated}
+  {Detection} of {Sleep} {Spindles}, {REM} {Sleep} and {Wake} {States}.
+\newblock {\em Journal of Medical Systems}, 32(4):291--299, August 2008.
+
+\bibitem{ventouras_sleep_2005}
+Ventouras, E.~M., Monoyiou, E.~A., Ktonas, P.~Y., Paparrigopoulos, T., Dikeos,
+  D.~G., Uzunoglu, N.~K., and Soldatos, C.~R.
+\newblock Sleep spindle detection using artificial neural networks trained with
+  filtered time-domain {EEG}: {A} feasibility study.
+\newblock {\em Computer Methods and Programs in Biomedicine}, 78(3):191--207,
+  June 2005.
+
+\bibitem{alvarez_usefulness_2017}
+Álvarez, D., Cerezo-Hernández, A., López-Muñiz, G., Castro, T. �.-D.,
+  Ruiz-Albi, T., Hornero, R., and Campo, F.~d.
+\newblock Usefulness of {Artificial} {Neural} {Networks} in the {Diagnosis} and
+  {Treatment} of {Sleep} {Apnea}-{Hypopnea} {Syndrome}.
+\newblock 2017.
+
+\end{thebibliography}

@@ -1,0 +1,13 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1}{\ignorespaces The frequency and peak-to-peak amplitude of different brain waves as identified by the AASM \cite {berry_md_chair_aasm_nodate}.\relax }}{4}
+\contentsline {table}{\numberline {2}{\ignorespaces The brain region that relates to every electrode location. It originated from https://sleeptechstudy.wordpress.com/category/1020-system/ \cite {noauthor_10/20_nodate}.\relax }}{6}
+\contentsline {table}{\numberline {3}{\ignorespaces The channels for an EEG to identify sleep stages as recommended by the AASM \cite {berry_md_chair_aasm_nodate}. Each electrode has backup electrode. Some important backups are Fpz for Fz and Cz for C3.\relax }}{7}
+\contentsline {table}{\numberline {4}{\ignorespaces The brain regions/electrode channel that brain waves, activities, and events (marker) are most likely to appear.}}{8}
+\contentsline {table}{\numberline {5}{\ignorespaces The different sleep stages as identified by the R\&K \cite {rechtschaffen_manual_nodate} and the AASM \cite {berry_md_chair_aasm_nodate}.}}{9}
+\contentsline {table}{\numberline {6}{\ignorespaces Which sleep stages are identified by certain EEG markers as recommended by the AASM \cite {berry_md_chair_aasm_nodate}.}}{10}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7}{\ignorespaces The number of coefficients produced for a 30 second epoch at each available level of decomposition.\relax }}{25}
+\contentsline {table}{\numberline {8}{\ignorespaces The results of the training sessions.\relax }}{28}
+\contentsline {table}{\numberline {9}{\ignorespaces The results of the training sessions.\relax }}{29}
+\addvspace {10\p@ }

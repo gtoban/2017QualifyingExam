@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{bowman1993reasoning}
+Bowman, M., Debray, S.~K., and Peterson, L.~L.
+\newblock Reasoning about naming systems.
+\newblock {\em ACM Transactions on Programming Languages and Systems (TOPLAS)},
+  15(5):795--825, 1993.
+
+\bibitem{forman2003extensive}
+Forman, G.
+\newblock An extensive empirical study of feature selection metrics for text
+  classification.
+\newblock {\em The Journal of machine learning research}, 3:1289--1305, 2003.
+
+\end{thebibliography}
