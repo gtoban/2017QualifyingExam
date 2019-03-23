@@ -1,0 +1,18 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import sys
+
+x = np.arange(1000)
+print(x[0])
+plt.figure()
+fig1 = plt.plot(x)
+plt.savefig("xrange1.png")
+
+plt.figure()
+fig2 = plt.plot(-x)
+plt.savefig("xrange2.png")
+
+#plt.figure(
+#legend((fig1,fig2),('postive', 'negative'))
+
